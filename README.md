@@ -1,6 +1,6 @@
 # Everything Python 
 
-This repository contains everything I’ve learned about Python—from my school days to my ongoing programming journey. It covers fundamental concepts, hands-on practice, and various mini-projects that demonstrate practical applications.
+This repository contains everything I’ve learned about Python - from my school days to my ongoing programming journey. It covers fundamental concepts and hands-on practice . 
 
 ## How to Use :
 
